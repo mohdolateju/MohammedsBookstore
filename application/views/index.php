@@ -42,7 +42,7 @@
 
      if (isset($success) && isset($constumerid)) {
     echo "<div class=\"error\">
-    {$success} Costumer ID is {$constumerid},You can now use it to login from now on.";
+    {$success} Costumer ID is {$constumerid}.</div>";
 }
 else {} ;
 

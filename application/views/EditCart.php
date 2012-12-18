@@ -80,7 +80,7 @@
                   print("<div style=\"position:relative; width:629px; height:98px; top:15px; overflow: hidden;\"" . ">
                             <b class=\"bkdetail\">Description:</b> {$cart['description']}
                          </div><br/>
-                         <div>
+                         <span class='spanform'>
                          <span class='spanform'>
                                <form name=\"cart\" method=\"post\" action=\"UpdateCart\">
                                     <label class=\"bkdetail\">Current Quantity:<b> {$cart['quantity']}</b></label>
@@ -107,7 +107,7 @@
                                     <input type=submit class='button' style='width: auto;' value=\"Remove Item\"/>
                                </form>
                            </span>
-                           </div>");
+                           </span>");
 
                   print("</div><p>&nbsp;</p>");
 

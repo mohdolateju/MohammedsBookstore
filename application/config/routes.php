@@ -66,5 +66,6 @@ $route['DeleteAuthor']="DeleteAuthor_Controller";
 $route['Home']="Home_Controller";
 
 
+
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

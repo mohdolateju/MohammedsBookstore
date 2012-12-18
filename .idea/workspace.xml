@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e79c1f19-b6ef-4aef-ae6b-28d269e87428" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\AddNewAuthor_Model.php" afterPath="$PROJECT_DIR$/application/models/addnewauthor_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\AddNewBook_Model.php" afterPath="$PROJECT_DIR$/application/models/addnewbook_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\BookDetail_Model.php" afterPath="$PROJECT_DIR$/application/models/bookdetail_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\BrowseBooks_Model.php" afterPath="$PROJECT_DIR$/application/models/browsebooks_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\DeleteAuthor_Model.php" afterPath="$PROJECT_DIR$/application/models/deleteauthor_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\DeleteBook_Model.php" afterPath="$PROJECT_DIR$/application/models/deletebook_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\EditBooks_Model.php" afterPath="$PROJECT_DIR$/application/models/editbooks_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\LoginValidation_Model.php" afterPath="$PROJECT_DIR$/application/models/loginvalidation_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\RegisterValidation_Model.php" afterPath="$PROJECT_DIR$/application/models/registervalidation_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\SearchAuthor_Model.php" afterPath="$PROJECT_DIR$/application/models/searchauthor_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\SearchResult_Model.php" afterPath="$PROJECT_DIR$/application/models/searchresult_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\UpdateAuthorDetails_Model.php" afterPath="$PROJECT_DIR$/application/models/updateauthordetails_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\UpdateAuthor_Model.php" afterPath="$PROJECT_DIR$/application/models/updateauthor_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\UpdateBookDetails_Model.php" afterPath="$PROJECT_DIR$/application/models/updatebookdetails_model.php" />
-      <change type="MOVED" beforePath="C:\wamp\www\MohammedsBookstore\application\models\UpdateBook_Model.php" afterPath="$PROJECT_DIR$/application/models/updatebook_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/database.php" afterPath="$PROJECT_DIR$/application/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/errors/error_404.php" afterPath="$PROJECT_DIR$/application/errors/error_404.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/errors/error_db.php" afterPath="$PROJECT_DIR$/application/errors/error_db.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/errors/error_general.php" afterPath="$PROJECT_DIR$/application/errors/error_general.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/errors/error_php.php" afterPath="$PROJECT_DIR$/application/errors/error_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
     </list>
     <ignored path="MohammedsBookstore.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="database.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="298" column="38" selection-start="2982" selection-end="2982" vertical-scroll-proportion="0.3564728">
+            <state line="298" column="38" selection-start="2982" selection-end="2982" vertical-scroll-proportion="-7.3076925">
               <folding />
             </state>
           </provider>
@@ -104,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="58.384617">
+            <state line="30" column="33" selection-start="995" selection-end="995" vertical-scroll-proportion="0.93621016">
               <folding />
             </state>
           </provider>
@@ -129,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/models/deletebook_model.php" />
         <option value="$PROJECT_DIR$/application/models/editbooks_model.php" />
         <option value="$PROJECT_DIR$/application/models/loginvalidation_model.php" />
         <option value="$PROJECT_DIR$/application/models/registervalidation_model.php" />
@@ -145,6 +123,7 @@
         <option value="$PROJECT_DIR$/application/errors/error_general.php" />
         <option value="$PROJECT_DIR$/application/errors/error_php.php" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
       </list>
     </option>
   </component>
@@ -491,13 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="58.384617">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/errors/error_db.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="31" selection-start="1097" selection-end="1097" vertical-scroll-proportion="-14.615385">
@@ -528,6 +500,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="298" column="38" selection-start="2982" selection-end="2982" vertical-scroll-proportion="-7.3076925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="36" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-14.0">
@@ -535,9 +514,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="298" column="38" selection-start="2982" selection-end="2982" vertical-scroll-proportion="0.3564728">
+        <state line="30" column="33" selection-start="995" selection-end="995" vertical-scroll-proportion="0.93621016">
           <folding />
         </state>
       </provider>

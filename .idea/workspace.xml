@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e79c1f19-b6ef-4aef-ae6b-28d269e87428" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/addnewauthor_model.php" afterPath="$PROJECT_DIR$/application/models/addnewauthor_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/addnewbook_model.php" afterPath="$PROJECT_DIR$/application/models/addnewbook_model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/errors/error_db.php" afterPath="$PROJECT_DIR$/application/errors/error_db.php" />
     </list>
     <ignored path="MohammedsBookstore.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,15 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="editbooks_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/editbooks_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="10" selection-start="595" selection-end="595" vertical-scroll-proportion="-11.769231">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="deletebook_model.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/deletebook_model.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +90,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addnewbook_model.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="addnewbook_model.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="0.6020833">
+            <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="-11.115385">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error_db.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/errors/error_db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="14" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.31034482">
+              <folding>
+                <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/system/core/Router.php" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/views/index.php" />
@@ -150,6 +150,7 @@
         <option value="$PROJECT_DIR$/application/models/updatebookdetails_model.php" />
         <option value="$PROJECT_DIR$/application/models/addnewauthor_model.php" />
         <option value="$PROJECT_DIR$/application/models/addnewbook_model.php" />
+        <option value="$PROJECT_DIR$/application/errors/error_db.php" />
       </list>
     </option>
   </component>
@@ -393,42 +394,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -602,15 +567,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/views/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="45" selection-start="1676" selection-end="1676" vertical-scroll-proportion="1.4580897">
-          <folding>
-            <marker date="1355852457670" expanded="true" signature="1629:1681" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/models/registervalidation_model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="12" selection-start="488" selection-end="488" vertical-scroll-proportion="-8.5">
@@ -711,8 +667,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="0.6020833">
+        <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="-11.115385">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/errors/error_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="14" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.31034482">
+          <folding>
+            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

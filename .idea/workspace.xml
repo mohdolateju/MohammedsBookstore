@@ -81,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddNewBook_Controller.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AddNewBook_Controller.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/AddNewBook_Controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="40" selection-start="2828" selection-end="2828" vertical-scroll-proportion="-2.7692308">
+            <state line="65" column="20" selection-start="3295" selection-end="3295" vertical-scroll-proportion="0.78541666">
               <folding />
             </state>
           </provider>
@@ -93,16 +93,16 @@
       <file leaf-file-name="addnewbook_model.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="-11.115385">
+            <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="6.076923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="error_db.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="error_db.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/errors/error_db.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="14" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.31034482">
+            <state line="58" column="16" selection-start="1138" selection-end="1138" vertical-scroll-proportion="-5.8846154">
               <folding>
                 <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
               </folding>
@@ -563,7 +563,7 @@
           <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="43" />
+      <option name="time" value="44" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -644,13 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/AddNewAuthor_Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.769231">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/models/addnewauthor_model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="74" column="10" selection-start="2203" selection-end="2203" vertical-scroll-proportion="-11.461538">
@@ -658,26 +651,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/AddNewBook_Controller.php">
+    <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="40" selection-start="2828" selection-end="2828" vertical-scroll-proportion="-2.7692308">
+        <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="6.076923">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/AddNewAuthor_Controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="-11.115385">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.769231">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/errors/error_db.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="14" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.31034482">
+        <state line="58" column="16" selection-start="1138" selection-end="1138" vertical-scroll-proportion="-5.8846154">
           <folding>
             <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/AddNewBook_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="20" selection-start="3295" selection-end="3295" vertical-scroll-proportion="0.78541666">
+          <folding />
         </state>
       </provider>
     </entry>

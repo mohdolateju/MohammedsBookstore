@@ -13,7 +13,7 @@ class addnewbook_model extends CI_Model
         $sql = "SELECT * FROM users WHERE firstname=? and lastname=?";
         $query=$this->db->query($sql,array($firstname,$lastname));
         $userdetails = $query->row_array();
-        $this->db->close();
+        //$this->db->close();
         return $userdetails;
     }
 
@@ -24,7 +24,7 @@ class addnewbook_model extends CI_Model
         $this->load->database();
         $query = $this->db->query('SELECT MAX(book_id) FROM books');
         $result = $query->row_array();
-        $this->db->close();
+        //$this->db->close();
         $maxno=$result['MAX(book_id)']  ;
         return $maxno;
 

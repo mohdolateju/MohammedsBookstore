@@ -4,12 +4,6 @@
     <list default="true" id="e79c1f19-b6ef-4aef-ae6b-28d269e87428" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/addnewauthor_model.php" afterPath="$PROJECT_DIR$/application/models/addnewauthor_model.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/addnewbook_model.php" afterPath="$PROJECT_DIR$/application/models/addnewbook_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/deleteauthor_model.php" afterPath="$PROJECT_DIR$/application/models/deleteauthor_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/deletebook_model.php" afterPath="$PROJECT_DIR$/application/models/deletebook_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/editbooks_model.php" afterPath="$PROJECT_DIR$/application/models/editbooks_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/updateauthor_model.php" afterPath="$PROJECT_DIR$/application/models/updateauthor_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/updateauthordetails_model.php" afterPath="$PROJECT_DIR$/application/models/updateauthordetails_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/updatebookdetails_model.php" afterPath="$PROJECT_DIR$/application/models/updatebookdetails_model.php" />
     </list>
     <ignored path="MohammedsBookstore.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,24 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="loginvalidation_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/loginvalidation_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="38" selection-start="530" selection-end="530" vertical-scroll-proportion="-3.6923077">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deleteauthor_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/deleteauthor_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="10" selection-start="1590" selection-end="1590" vertical-scroll-proportion="-15.884615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="editbooks_model.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/editbooks_model.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="updatebookdetails_model.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="updatebookdetails_model.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/updatebookdetails_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="10" selection-start="658" selection-end="658" vertical-scroll-proportion="-1.01875">
+            <state line="19" column="10" selection-start="658" selection-end="658" vertical-scroll-proportion="18.807692">
               <folding />
             </state>
           </provider>
@@ -109,16 +85,34 @@
       <file leaf-file-name="addnewauthor_model.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/addnewauthor_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="10" selection-start="1026" selection-end="1026" vertical-scroll-proportion="-15.615385">
+            <state line="74" column="10" selection-start="2203" selection-end="2203" vertical-scroll-proportion="-11.461538">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="searchauthor_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/searchauthor_model.php">
+      <file leaf-file-name="AddNewBook_Controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/AddNewBook_Controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="3" selection-start="697" selection-end="697" vertical-scroll-proportion="-11.230769">
+            <state line="57" column="40" selection-start="2828" selection-end="2828" vertical-scroll-proportion="-2.7692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addnewbook_model.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="0.6020833">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddNewAuthor_Controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/AddNewAuthor_Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.769231">
               <folding />
             </state>
           </provider>
@@ -148,14 +142,14 @@
         <option value="$PROJECT_DIR$/application/models/searchauthor_model.php" />
         <option value="$PROJECT_DIR$/application/models/loginvalidation_model.php" />
         <option value="$PROJECT_DIR$/application/models/registervalidation_model.php" />
-        <option value="$PROJECT_DIR$/application/models/addnewauthor_model.php" />
-        <option value="$PROJECT_DIR$/application/models/addnewbook_model.php" />
         <option value="$PROJECT_DIR$/application/models/deleteauthor_model.php" />
         <option value="$PROJECT_DIR$/application/models/editbooks_model.php" />
         <option value="$PROJECT_DIR$/application/models/deletebook_model.php" />
         <option value="$PROJECT_DIR$/application/models/updateauthor_model.php" />
         <option value="$PROJECT_DIR$/application/models/updateauthordetails_model.php" />
         <option value="$PROJECT_DIR$/application/models/updatebookdetails_model.php" />
+        <option value="$PROJECT_DIR$/application/models/addnewauthor_model.php" />
+        <option value="$PROJECT_DIR$/application/models/addnewbook_model.php" />
       </list>
     </option>
   </component>
@@ -608,27 +602,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/controllers/SearchAuthor_Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/database/DB_active_rec.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="35" selection-start="2832" selection-end="2832" vertical-scroll-proportion="0.57699805">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="45" selection-start="1676" selection-end="1676" vertical-scroll-proportion="1.4580897">
@@ -687,13 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/addnewauthor_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="10" selection-start="1026" selection-end="1026" vertical-scroll-proportion="-15.615385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/models/searchresult_model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="33.53846">
@@ -717,7 +683,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/updatebookdetails_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="10" selection-start="658" selection-end="658" vertical-scroll-proportion="-1.01875">
+        <state line="19" column="10" selection-start="658" selection-end="658" vertical-scroll-proportion="18.807692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/AddNewAuthor_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/addnewauthor_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="10" selection-start="2203" selection-end="2203" vertical-scroll-proportion="-11.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/AddNewBook_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="40" selection-start="2828" selection-end="2828" vertical-scroll-proportion="-2.7692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="0.6020833">
           <folding />
         </state>
       </provider>

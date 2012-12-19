@@ -13,7 +13,7 @@ class addnewauthor_model extends CI_Model
         $sql = "SELECT * FROM users WHERE firstname=? and lastname=?";
         $query=$this->db->query($sql,array($firstname,$lastname));
         $userdetails = $query->row_array();
-        $this->db->close();
+        //$this->db->close();
         return $userdetails;
     }
 
@@ -43,13 +43,13 @@ class addnewauthor_model extends CI_Model
         $this->load->database();
         $query = $this->db->query('SELECT MAX(author_id) FROM authors');
         $result = $query->row_array();
-        $this->db->close();
+        //$this->db->close();
         $maxno=$result['MAX(author_id)']  ;
         return $maxno;
 
     }
 
-    /**Creates an new firstname
+    /**Creates an new Author
      *@param New Author's id, Firstname, Lastname
      */
     function set_new_author($authorid, $firstname, $lastname){
@@ -58,6 +58,7 @@ class addnewauthor_model extends CI_Model
             'firstname' => $firstname ,
             'lastname' => $lastname
         );
+
         $this->db->insert('authors', $data);
         //$this->db->close();
 
@@ -71,7 +72,7 @@ class addnewauthor_model extends CI_Model
         $sql = "SELECT * FROM authors";
         $query=$this->db->query($sql);
         $authors = $query->result_array();
-        $this->db->close();
+        //$this->db->close();
         return $authors;
     }
 

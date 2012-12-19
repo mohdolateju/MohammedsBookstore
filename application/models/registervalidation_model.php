@@ -11,7 +11,7 @@ class registervalidation_model  extends CI_Model
           $this->load->database();
           $query = $this->db->query('SELECT MAX(user_no) FROM users');
           $result = $query->row_array();
-          $this->db->close();
+          //$this->db->close();
           $maxno=$result['MAX(user_no)']  ;
           return $maxno;
 
@@ -33,6 +33,6 @@ class registervalidation_model  extends CI_Model
             'type' =>"costumer"
         );
         $this->db->insert('users', $data);
-        $this->db->close();
+        //$this->db->close();
     }
 }

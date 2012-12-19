@@ -138,10 +138,10 @@
                                 class=\"costbutton\" style='margin:2px'>"."Update Book</a>");
                         print("&nbsp<a href=\"".site_url("DeleteBook")."?book=".$book_id."\"
                                 class=\"deletebutton\" style='margin:2px'>"."Delete Book</a><br><br>");
-                    }else{"<br><br>";}
+                    }else{echo "<br><br>";}
                 print("</div>");
             }else{
-
+                echo "<br><br>";
             }
 ?>
         </div>

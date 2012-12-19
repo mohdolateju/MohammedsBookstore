@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e79c1f19-b6ef-4aef-ae6b-28d269e87428" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/errors/error_db.php" afterPath="$PROJECT_DIR$/application/errors/error_db.php" />
+      <change type="DELETED" beforePath="C:\wamp\www\MohammedsBookstore\book_images\17Brown.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/addnewbook_model.php" afterPath="$PROJECT_DIR$/application/models/addnewbook_model.php" />
     </list>
     <ignored path="MohammedsBookstore.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,93 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="deletebook_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/deletebook_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="10" selection-start="1465" selection-end="1465" vertical-scroll-proportion="-14.269231">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="searchresult_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/searchresult_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="33.53846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="updateauthor_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/updateauthor_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="10" selection-start="435" selection-end="435" vertical-scroll-proportion="-9.153846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="updateauthordetails_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/updateauthordetails_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="10" selection-start="1806" selection-end="1806" vertical-scroll-proportion="-11.115385">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="updatebookdetails_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/updatebookdetails_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="10" selection-start="658" selection-end="658" vertical-scroll-proportion="18.807692">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addnewauthor_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/addnewauthor_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="10" selection-start="2203" selection-end="2203" vertical-scroll-proportion="-11.461538">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddNewBook_Controller.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/controllers/AddNewBook_Controller.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="20" selection-start="3295" selection-end="3295" vertical-scroll-proportion="0.78541666">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addnewbook_model.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="addnewbook_model.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="6.076923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error_db.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/errors/error_db.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="16" selection-start="1138" selection-end="1138" vertical-scroll-proportion="-5.8846154">
-              <folding>
-                <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddNewAuthor_Controller.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/AddNewAuthor_Controller.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.769231">
+            <state line="64" column="43" selection-start="2220" selection-end="2220" vertical-scroll-proportion="2.2761507">
               <folding />
             </state>
           </provider>
@@ -149,8 +68,8 @@
         <option value="$PROJECT_DIR$/application/models/updateauthordetails_model.php" />
         <option value="$PROJECT_DIR$/application/models/updatebookdetails_model.php" />
         <option value="$PROJECT_DIR$/application/models/addnewauthor_model.php" />
-        <option value="$PROJECT_DIR$/application/models/addnewbook_model.php" />
         <option value="$PROJECT_DIR$/application/errors/error_db.php" />
+        <option value="$PROJECT_DIR$/application/models/addnewbook_model.php" />
       </list>
     </option>
   </component>
@@ -161,10 +80,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="57" />
+    <option name="y" value="20" />
+    <option name="width" value="1237" />
+    <option name="height" value="702" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -192,6 +111,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,122 +127,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drivers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drivers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MohammedsBookstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,9 +198,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MohammedsBookstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MohammedsBookstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -473,14 +294,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="57" y="20" width="1237" height="702" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28560606" sideWeight="0.4041096" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33409092" sideWeight="0.60102737" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3880851" sideWeight="0.60102737" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989726" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28560606" sideWeight="0.41267124" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -563,15 +384,13 @@
           <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="46" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/application/models/registervalidation_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="12" selection-start="488" selection-end="488" vertical-scroll-proportion="-8.5">
-          <folding />
-        </state>
+        <state line="13" column="12" selection-start="488" selection-end="488" vertical-scroll-proportion="-8.5" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/searchauthor_model.php">
@@ -583,100 +402,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/loginvalidation_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="38" selection-start="530" selection-end="530" vertical-scroll-proportion="-3.6923077">
-          <folding />
-        </state>
+        <state line="15" column="38" selection-start="530" selection-end="530" vertical-scroll-proportion="-3.6923077" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/editcart_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/deleteauthor_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="10" selection-start="1590" selection-end="1590" vertical-scroll-proportion="-15.884615">
-          <folding />
-        </state>
+        <state line="50" column="10" selection-start="1590" selection-end="1590" vertical-scroll-proportion="-15.884615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/editbooks_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="10" selection-start="595" selection-end="595" vertical-scroll-proportion="-11.769231">
-          <folding />
-        </state>
+        <state line="18" column="10" selection-start="595" selection-end="595" vertical-scroll-proportion="-11.769231" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/deletebook_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="10" selection-start="1465" selection-end="1465" vertical-scroll-proportion="-14.269231">
-          <folding />
-        </state>
+        <state line="49" column="10" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/searchresult_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="33.53846">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/updateauthor_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="10" selection-start="435" selection-end="435" vertical-scroll-proportion="-9.153846">
-          <folding />
-        </state>
+        <state line="14" column="10" selection-start="435" selection-end="435" vertical-scroll-proportion="0.4465291" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/updateauthordetails_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="10" selection-start="1806" selection-end="1806" vertical-scroll-proportion="-11.115385">
-          <folding />
-        </state>
+        <state line="57" column="10" selection-start="1806" selection-end="1806" vertical-scroll-proportion="0.6172608" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/updatebookdetails_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="10" selection-start="658" selection-end="658" vertical-scroll-proportion="18.807692">
-          <folding />
-        </state>
+        <state line="19" column="10" selection-start="658" selection-end="658" vertical-scroll-proportion="0.03269231" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/addnewauthor_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="10" selection-start="2203" selection-end="2203" vertical-scroll-proportion="-11.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="47" selection-start="670" selection-end="670" vertical-scroll-proportion="6.076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/AddNewAuthor_Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.769231">
-          <folding />
-        </state>
+        <state line="74" column="10" selection-start="2203" selection-end="2203" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/errors/error_db.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="16" selection-start="1138" selection-end="1138" vertical-scroll-proportion="-5.8846154">
-          <folding>
-            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="58" column="16" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.668616" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/AddNewAuthor_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="19" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.0331384" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/AddNewBook_Controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="20" selection-start="3295" selection-end="3295" vertical-scroll-proportion="0.78541666">
+        <state line="25" column="0" selection-start="857" selection-end="857" vertical-scroll-proportion="-0.292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/addnewbook_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="43" selection-start="2220" selection-end="2220" vertical-scroll-proportion="2.2761507">
           <folding />
         </state>
       </provider>

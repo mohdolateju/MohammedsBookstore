@@ -17,7 +17,7 @@ class updatebook_model extends CI_Model
                 AND books.book_id=?";
         $query = $this->db->query($sql, $bookid);
         $row = $query->row_array();
-        $this->db->close();
+        //$this->db->close();
         return $row;
 
     }
@@ -30,7 +30,7 @@ class updatebook_model extends CI_Model
         $sql = "SELECT * FROM authors";
         $query=$this->db->query($sql);
         $row = $query->result_array();
-        $this->db->close();
+        //$this->db->close();
         return $row;
     }
 
@@ -46,7 +46,7 @@ class updatebook_model extends CI_Model
                 ORDER BY book_id";
         $query = $this->db->query($sql);
         $books = $query->result_array();
-        $this->db->close();
+        //$this->db->close();
         return $books;
 
     }

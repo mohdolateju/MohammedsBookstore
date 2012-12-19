@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e79c1f19-b6ef-4aef-ae6b-28d269e87428" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/database.php" afterPath="$PROJECT_DIR$/application/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/searchauthor_model.php" afterPath="$PROJECT_DIR$/application/models/searchauthor_model.php" />
     </list>
     <ignored path="MohammedsBookstore.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="35" selection-start="2832" selection-end="2832" vertical-scroll-proportion="0.57699805">
+            <state line="57" column="35" selection-start="2832" selection-end="2832" vertical-scroll-proportion="-11.384615">
               <folding />
             </state>
           </provider>
@@ -110,10 +110,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="searchauthor_model.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="searchauthor_model.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/models/searchauthor_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="-4.230769">
+            <state line="14" column="9" selection-start="409" selection-end="409" vertical-scroll-proportion="0.23781677">
               <folding />
             </state>
           </provider>
@@ -135,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/models/updateauthor_model.php" />
         <option value="$PROJECT_DIR$/application/models/updateauthordetails_model.php" />
         <option value="$PROJECT_DIR$/application/models/updatebook_model.php" />
         <option value="$PROJECT_DIR$/application/models/updatebookdetails_model.php" />
@@ -151,6 +150,7 @@
         <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/views/index.php" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/models/searchauthor_model.php" />
       </list>
     </option>
   </component>
@@ -659,20 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/SearchAuthor_Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/searchauthor_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="-4.230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/system/database/DB_cache.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -687,19 +673,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/RegisterValidation_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="0" selection-start="2677" selection-end="2677" vertical-scroll-proportion="-37.923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="35" selection-start="2832" selection-end="2832" vertical-scroll-proportion="-11.384615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="45" selection-start="1676" selection-end="1676" vertical-scroll-proportion="-4.8846154">
           <folding>
             <marker date="1355852457670" expanded="true" signature="1629:1681" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/RegisterValidation_Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="2677" selection-end="2677" vertical-scroll-proportion="-37.923077">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,9 +703,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/SearchAuthor_Controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="35" selection-start="2832" selection-end="2832" vertical-scroll-proportion="0.57699805">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/searchauthor_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="9" selection-start="409" selection-end="409" vertical-scroll-proportion="0.23781677">
           <folding />
         </state>
       </provider>

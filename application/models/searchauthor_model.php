@@ -12,7 +12,7 @@ class searchauthor_model extends CI_Model
         $sql = "SELECT * FROM authors";
         $query=$this->db->query($sql);
         $authorids = $query->result_array();
-        $this->db->close();
+       // $this->db->close();
         return $authorids;
     }
 
@@ -25,7 +25,7 @@ class searchauthor_model extends CI_Model
         $sql = "SELECT * FROM authors WHERE author_id=?";
         $query=$this->db->query($sql,$authorid);
         $authordetails = $query->row_array();
-        $this->db->close();
+       // $this->db->close();
         return $authordetails;
     }
 }

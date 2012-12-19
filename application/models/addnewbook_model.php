@@ -47,7 +47,7 @@ class addnewbook_model extends CI_Model
         );
 
         $this->db->insert('books', $data);
-        $this->db->close();
+        //$this->db->close();
 
 
     }

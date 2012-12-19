@@ -12,7 +12,7 @@ class deletebook_model extends CI_Model
         $this->load->database();
         $this->db->where('book_id', $book_id);
         $this->db->delete('books');
-        $this->db->close();
+        //$this->db->close();
 
     }
 
@@ -28,7 +28,7 @@ class deletebook_model extends CI_Model
                 ORDER BY book_id";
         $query = $this->db->query($sql);
         $books = $query->result_array();
-        $this->db->close();
+        //$this->db->close();
         return $books;
 
     }
@@ -47,7 +47,7 @@ class deletebook_model extends CI_Model
                 ORDER BY book_id";
         $query = $this->db->query($sql,$bookid);
         $authordetails = $query->row_array();
-        $this->db->close();
+        //$this->db->close();
         return $authordetails;
 
     }

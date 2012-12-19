@@ -12,7 +12,7 @@ class updateauthordetails_model extends CI_Model
         $sql = "SELECT * FROM authors";
         $query=$this->db->query($sql);
         $authorids = $query->result_array();
-        $this->db->close();
+        //$this->db->close();
         return $authorids;
     }
 
@@ -28,7 +28,7 @@ class updateauthordetails_model extends CI_Model
         );
         $this->db->where('author_id', $authorid);
         $this->db->update('authors', $data);
-        $this->db->close();
+       // $this->db->close();
 
 
     }
@@ -42,7 +42,7 @@ class updateauthordetails_model extends CI_Model
         $sql = "SELECT author_id FROM authors WHERE firstname=? AND lastname=? ";
         $query=$this->db->query($sql,array($authorfname,$authorlname));
         $author = $query->row_array();
-        $this->db->close();
+        //$this->db->close();
         return $author['author_id'];
     }
 
@@ -55,7 +55,7 @@ class updateauthordetails_model extends CI_Model
         $sql = "SELECT * FROM authors WHERE author_id=?";
         $query=$this->db->query($sql,$authorid);
         $author = $query->row_array();
-        $this->db->close();
+        //$this->db->close();
         return $author;
     }
 

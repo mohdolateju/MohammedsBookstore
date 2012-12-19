@@ -27,7 +27,7 @@ class addnewauthor_model extends CI_Model
         $sql = "SELECT * FROM authors WHERE firstname=? and lastname=?";
         $query=$this->db->query($sql,array($firstname,$lastname));
         $result = $query->row();
-        $this->db->close();
+        //$this->db->close();
         if(empty($result)){
             return FALSE;
         }else{
@@ -59,7 +59,7 @@ class addnewauthor_model extends CI_Model
             'lastname' => $lastname
         );
         $this->db->insert('authors', $data);
-        $this->db->close();
+        //$this->db->close();
 
     }
 

@@ -118,9 +118,9 @@
 
                             //Display Links if user is an admin
                             if(($_SESSION['type']=="admin")){
-                                print("&nbsp<a href=\"".site_url("UpdateBook")."?book=".$book['book_id']."
+                                print("&nbsp<a href=\"".site_url("UpdateBook")."?book=".$details['book_id']."
                              \" class=\"costbutton\" style='margin:2px'>"."Update Book</a>");
-                print("&nbsp<a href=\"".site_url("DeleteBook")."?book=".$book['book_id']."\"
+                print("&nbsp<a href=\"".site_url("DeleteBook")."?book=".$details['book_id']."\"
                               class=\"deletebutton\" style='margin:2px'>"."Delete Book</a></div> ");
 
                             }else{echo"</div>";}

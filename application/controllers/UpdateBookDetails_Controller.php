@@ -67,7 +67,7 @@ class UpdateBookDetails_Controller extends CI_Controller
                    rename("./book_images/".$bookid.$oldlastname.".jpg","./book_images/".$bookid.$authorname[1].".jpg");
                    $details= $this->UpdateBookDetails_Model->get_book_details($bookid);
                    $details['authors']=$this->UpdateBookDetails_Model->get_all_authors();
-                   $details['success']='Book Successfully Updated';
+                   $details['success']="<div class='searcherror'>Book Successfully Updated</div>";
                    $this->load->view("UpdateBook", $details);
                }
 

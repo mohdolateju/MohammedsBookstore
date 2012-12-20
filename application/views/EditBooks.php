@@ -37,7 +37,7 @@
 
 
          <!--Delete Success Message-->
-        <?php if(isset($delsuccess)){echo "<br/><div class='error'>".$delsuccess."</div";}else{};?>
+        <?php if(isset($delsuccess)){echo "<br/><div class='searcherror'>".$delsuccess."</div>";}else{};?>
         <?php
 
             //Iterated through all the books and Display the information for each

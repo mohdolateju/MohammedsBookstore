@@ -17,9 +17,9 @@ class searchresult_model extends CI_Model
                 FROM books,authors
                 WHERE books.author_id=authors.author_id
 				AND (firstname REGEXP ? OR lastname REGEXP ? OR
-					  CONCAT(firstname,' ',lastname) REGEXP ?)
+					  CONCAT(firstname,' ',lastname) REGEXP ? )
                 ORDER BY book_id";
-        $query=$this->db->query($sql,array($author,$author));
+        $query=$this->db->query($sql,array($author,$author,$author));
         $books = $query->result_array();
         $this->db->close();
         return $books;
